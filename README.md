@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![这里写你的昵称's GitHub stats](https://github-readme-stats.vercel.app/api?username=dogefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Fang Yi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dogefy&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **dogefy/dogefy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
