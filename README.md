@@ -1,8 +1,8 @@
 # **FangYi (dogefy)**
-## **Programing**
+### **Programing**
 What can I do ?  
 😭
-## **Donate**
+### **Donate**
 No one will donate to me , if you want , maybe one day I will give you the way to donate !
 
 &nbsp;
