@@ -1,11 +1,10 @@
-# **FangYi (dogefy)**
-### **Programing**
-What can I do ?  
-😭
-### **Donate**
+## **FangYi (dogefy)**
+### Programing
+What can I do ? 😭
+### Language
+Both English and Chinese are acceptable.
+### Donate
 No one will donate to me , if you want , maybe one day I will give you the way to donate !
-
-&nbsp;
 
 [![Fang Yi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dogefy&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 <!--
